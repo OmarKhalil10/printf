@@ -172,7 +172,7 @@ Conversion specifiers to handle: d, i, u, o, x, X
 * GitHub repository: printf
 #
 ### Authors
-
+[Omar Khalil](https://github.com/OmarKhalil10)
 ### Acknowledgments
 
 * Follow the framework
